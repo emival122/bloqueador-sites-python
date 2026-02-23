@@ -51,10 +51,11 @@ Para mais detalhes sobre o funcionamento do sistema:
 Antes de executar o sistema, instale a dependência necessária utilizando o comando abaixo:
 pip install pillow
 
-## ▶️ Execução do Programa
+ ▶️ Execução do Programa
 
-# ⚠️ Atenção: Este programa precisa ser executado como Administrador, pois realiza alterações no arquivo hosts do Windows.
+ ⚠️ Atenção: Este programa precisa ser executado como Administrador, pois realiza alterações no arquivo hosts do Windows.
 Execute o comando abaixo em um terminal aberto com privilégios de administrador:
+
 python main.py
 
 ## 📄 Licença
