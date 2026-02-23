@@ -1,0 +1,41 @@
+#  Python 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Ambientes Virtuais
+venv/
+.env/
+.venv/
+
+# Sistema Operacional
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# IDEs / Editores 
+.vscode/
+.idea/
+*.swp
+
+# Arquivos do Projeto
+# Arquivo de dados gerado pelo usuário
+sites.csv
+
+# Logs (caso sejam adicionados futuramente)
+*.log
+
+#  Executáveis 
+
+*.exe
+*.spec
