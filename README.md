@@ -16,7 +16,7 @@ O **Bloqueador de Sites** é uma aplicação desktop desenvolvida em Python que 
 
 ## ✨ Funcionalidades
 - 🚫 Bloqueio de sites personalizados
-- 🔓 Desbloqueio rápido com um clique
+- 🔓 Desbloqueio 
 - 💾 Persistência de dados em arquivo CSV
 - 🛡️ Verificação de permissões de administrador
 - 🎨 Interface moderna em tema escuro
