@@ -70,4 +70,4 @@ Este projeto está sob a **Licença MIT**. Uso livre para fins educacionais e pe
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/emival122/bloqueador-sites.git
+git clone https://github.com/emival122/bloqueador-de-sites-python.git
